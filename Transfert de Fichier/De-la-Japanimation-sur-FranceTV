@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+
+      <title>De la Japanimation sur France.TV, 04 November 2021  - Manga news</title>
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimal-ui" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="yes" />
+
+    
+  <meta name="description" content="Découvrez ou redécouvrez toute la diversité de la japanimation en streaming gratuit avec 9 films iconiques sur France.TV.En effet, le service propose actuellement, en streaming..." />
+  <meta name="keywords" content="Animation,manga-news.com,De la Japanimation sur France.TV,info,actu,quotidien,manga,mangas,actualité,Manga News" />
+  
+  <base href="https://www.manga-news.com/" />
+    
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.manga-news.com/index.php/feed/news" />
+  <link rel="shortcut icon" href="https://www.manga-news.com/favicon.ico" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+  <link rel="search" href="https://www.manga-news.com/opensearch.xml" type="application/opensearchdescription+xml" title="Manga-news" />
+  <!-- Facebook Meta Tags -->
+  <meta property="og:title" content="De la Japanimation sur France.TV, 04 November 2021">
+  <meta property="og:url" content="http://www.manga-news.com/index.php/actus/2021/11/03/De-la-Japanimation-sur-FranceTV">
+  <meta property="og:description" content="Découvrez ou redécouvrez toute la diversité de la japanimation en streaming gratuit avec 9 films iconiques sur France.TV.En effet, le service propose actuellement, en streaming...">
+  <meta property="og:image" content="https://www.manga-news.com/mn-icon.png">
+  <meta property="og:site_name" content="manga-news.com">
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image:src" content="https://www.manga-news.com/mn-icon.png">
+  <meta name="twitter:site" content="@manga_news">
+  <meta name="twitter:creator" content="@manga_news">
+  <meta name="twitter:domain" content="manga-news.com">
+  <meta name="twitter:title" content="De la Japanimation sur France.TV, 04 November 2021">
+  <meta name="twitter:description" content="Découvrez ou redécouvrez toute la diversité de la japanimation en streaming gratuit avec 9 films iconiques sur France.TV.En effet, le service propose actuellement, en streaming...">
+  <meta name="msapplication-TileImage" content="mn144.png">
+  <meta name="msapplication-TileColor" content="#ff7c00">
+
+  
+
+
+
+
+
+
+
+
+
+  <link rel="amphtml" href="https://www.manga-news.com/amp/actus/2021/11/03/De-la-Japanimation-sur-FranceTV.html">
+
+
+
+
+  <link href="videojs/video-js.min.css" rel="stylesheet">
+  <link href="videojs/videojs-brand.css" rel="stylesheet">
+  <!--<link href="videojs/videojs.socialShare.css" rel="stylesheet">-->
+  <link href="videojs/videojs.suggestedVideoEndcap.css" rel="stylesheet">
+
+  
+
+
+  <link rel="stylesheet" href="/mobile/css/mobile-angular-ui-hover.min.css" />
+  <link rel="stylesheet" href="/mobile/css/mobile-angular-ui-base.min.css" />
+  <link rel="stylesheet" href="/mobile/css/mobile-angular-ui-desktop.min.css" />
+  <link rel="stylesheet" href="/tpl/default/style.css?71d25adba6236e0c145e593c0cfa39f5" />
+  <link rel="stylesheet" href="/tpl/mobile/mn.css?a7ebff676cb0e94a729111003ce65bd5" />
+  <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.0/angular.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.0/angular-route.min.js"></script>
+  <script src="/mobile/js/mobile-angular-ui.min.js"></script>
+  <!-- Required to use $touch, $swipe, $drag and $translate services -->
+  <script src="/mobile/js/mobile-angular-ui.gestures.min.js"></script>
+  <script src="/tpl/mobile/mn.js?e5762ab8a2a48a82108940e6e7394f6e"></script>
+
+  
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2575586-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2575586-1');
+</script>
+
+
+
+
+<script type="text/javascript">
+  window.___gcfg = {lang: 'fr'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+</head>
+
+
+<body style="background-color:#fff;" ng-app="Manganews"
+      ng-controller="MainController"
+      ui-prevent-touchmove-defaults>
+
+
+<!-- Sidebars -->
+<div  class="sidebar sidebar-left">
+  <div class="scrollable">
+  <h1 class="scrollable-header sidebar-header">
+    <a href="https://www.manga-news.com" title="Manga-news - La référence manga">
+      <img src="tpl/mobile/img/logo.png" alt="Manga-news" />
+    <small>La référence manga</small></a>
+  </h1>
+
+  <div id="topsearch">
+    <form id="search-form" action="index.php/recherche/" method="get">
+      <input type="text" value="Rechercher un manga, un anime ..." id="q_search" name="q" alt="chercher"/>
+      <input type="submit" class="submit" id="searchMain" value=""/>
+    </form>
+  </div>
+
+  <div class="scrollable-content">
+    <div class="list-group" ui-turn-off='uiSidebarLeft'>
+      <a class="list-group-item" href="/">Accueil <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/actus/">Actus <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/univers-manga">Manga <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/univers-animation">Animation <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/univers-japon">Japon <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/univers-jeuxvideo">Jeux Vidéo <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/univers-cine-asie">Ciné Asie <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/univers-goodies">Goodies <i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item" href="index.php/agenda/">Agenda<i class="fa fa-chevron-right pull-right"></i></a>
+      <!--<a class="list-group-item" href="index.php/univers-communaute">Communauté<i class="fa fa-chevron-right pull-right"></i></a>-->
+      <a class="list-group-item" href="index.php/planning/">Planning<i class="fa fa-chevron-right pull-right"></i></a>
+      <a class="list-group-item blue" href="index.php/tournois/">Tournois<i class="fa fa-chevron-right pull-right blue"></i></a>
+      <a class="list-group-item" href="http://forum.manga-news.com">Forum<i class="fa fa-chevron-right pull-right"></i></a>
+    </div>
+
+
+  </div>
+
+</div></div>
+
+<div class="sidebar sidebar-right">
+  
+  <form method="post" id="logformmain" action="index.php/login/">
+
+    <span><a href="index.php/login/" title="espace membre">Espace Membre</a></span>
+    <input type="text" name="pseudo" id="pseudo" value="Pseudo">
+    <input type="password" name="password" id="password" class="text" value="Mot de Passe">
+    <input type="submit" value="OK" id="login" name="connect" class="choix">
+    <input type="hidden" name="login" value="connect"/>
+    <a href="index.php/inscription/" title="Inscription" id="newmember">inscription</a>
+    <a href="index.php/recuperation/" title="Récuperer ses identifiants" id="needpass">identifiants oubliés ?</a>
+  </form>
+</div>
+
+<div class="app"
+     ui-swipe-right='Ui.turnOn("uiSidebarLeft")'
+     ui-swipe-left='Ui.turnOff("uiSidebarLeft")'>
+
+  <!-- Navbars -->
+
+  <div class="navbar navbar-app navbar-absolute-top">
+    <div class="navbar-brand navbar-brand-center" ui-yield-to="title">
+      <a href="https://www.manga-news.com" title="Manga-news - La référence manga"><img src="tpl/mobile/img/logo-small.png" alt="Manga-news" /></a>
+    </div>
+    <div class="btn-group pull-left">
+      <div ui-toggle="uiSidebarLeft" class="btn sidebar-toggle">
+        <i class="fa fa-bars"></i> Menu
+      </div>
+    </div>
+    <div class="btn-group pull-right" ui-yield-to="navbarAction">
+      <div ui-toggle="uiSidebarRight" class="btn">
+        <i class="fa fa-user"></i> Compte
+      </div>
+    </div>
+  </div>
+
+  <!--
+  <div class="navbar navbar-app navbar-absolute-bottom">
+    <div class="btn-group justified">
+      <a href="/docs" class="btn btn-navbar"><i class="fa fa-home fa-navbar"></i> Docs</a>
+      <a href="https://github.com/mcasimir/mobile-angular-ui" class="btn btn-navbar"><i class="fa fa-github fa-navbar"></i> Sources</a>
+      <a href="https://github.com/mcasimir/mobile-angular-ui/issues" class="btn btn-navbar"><i class="fa fa-exclamation-circle fa-navbar"></i> Issues</a>
+    </div>
+  </div>
+  -->
+
+  <!-- App Body -->
+  <div class="app-body scrollable section" ng-class="{loading: loading}">
+    <div ng-show="loading" class="app-content-loading">
+      <i class="fa fa-spinner fa-spin loading-spinner"></i>
+    </div>
+    <div class="app-content scrollable-content">
+      
+      
+
+<div class="entryPage subpage" id="actus">
+
+  
+  <div id="main">
+
+  <div id="breadcrumb">
+    <span><a href="/" title="manga-news.com"><span>Manga news</span></a> &gt; </span>
+       <span><h1><a href="index.php/actus/" title="Actualité"><span>Actualité</span></a></h1> &gt; </span>
+       <span><a  href="index.php/actus/categories/animation" title="Actu Animation"><span>Actu Animation</span></a> &gt; </span>
+       <span><a href="https://www.manga-news.com/index.php/actus/2021/11/03/De-la-Japanimation-sur-FranceTV" title="De la Japanimation sur France.TV" class="lastbreadcrumb"><span>De la Japanimation sur France.TV</span></a></span>
+        <script type="application/ld+json">
+        {
+         "@context": "http://schema.org",
+         "@type": "BreadcrumbList",
+         "name": "Breadcrumb",
+         "itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.manga-news.com/","name":"Manga news"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.manga-news.com/index.php/actus","name":"Actualité"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.manga-news.com/index.php/actus/categories/animation","name":"Actu Animation"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.manga-news.com/index.php/actus/2021/11/03/De-la-Japanimation-sur-FranceTV","name":"De la Japanimation sur France.TV"}}]
+        }
+        </script>  </div>
+
+    <p class="navlinks">
+          <a href="https://www.manga-news.com/index.php/actus/2021/11/04/La-Princesse-Maudite-et-son-Servant-Immortel-arrivent-chez-Komikku"
+      title="La Princesse Maudite et son Servant Immortel arrivent chez Komikku" class="prev">&#171;
+      La Princesse Maudite et son Servant Immortel</a>
+    
+              <a href="https://www.manga-news.com/index.php/actus/2021/11/04/Pas-de-MAGIC-Monaco-en-2022"
+        title="Pas de MAGIC Monaco en 2022" class="next">
+        Pas de MAGIC Monaco en 2022 &#187;</a>
+          </p>
+
+
+
+    <div class="actu" >
+
+              <div class="actu-picture-wrapper">
+          <img src="https://www.manga-news.com/public/images/news/.japanimation-france-tv-news_s.jpg" class="actu-picture" alt="actualité manga - news illustration"/>
+        </div>
+      
+     <!-- <ul id="ariane">
+        <li class="first"></li>
+        <li class="last"></li>
+      </ul>-->
+
+      <h2 id="a68901" class="actu-title">
+        <span id="icoAnime" title="Dvd" class="catIcon" >Dvd</span>        De la Japanimation sur France.TV      </h2>
+        <br />
+        <p class="actu-meta">
+        Jeudi, 04 November 2021 à 11h00                 - Source :<a href="https://www.france.tv/collection/2879811-japanimation/"
+                      class="exta-link">France.TV</a>
+                                        </p>
+       
+        <div id="notation">
+		            </div>
+
+
+      
+        <div class="actu-content bigsize">
+
+          
+          
+          
+
+          <span class="tb_justify" style="display: block; text-align: justify;">Découvrez ou redécouvrez toute la diversité de la japanimation en streaming gratuit avec 9 films iconiques sur <a href="https://www.france.tv/collection/2879811-japanimation/" class="exta-link"><strong>France.TV</strong></a>.<br /><br />En effet, le service propose actuellement, en streaming gratuit, une sélection de 9 films d'animation vouée à montrer la diversité de l'animation japonaise avec des récits imaginatifs, poétique ou plus sombres explorant des thématiques universelle et contemporaines : harcèlement scolaire, handicap, montée des extrêmes, guerres...<br /><br /><img src="https://www.manga-news.com/public/2021/news_11/france-tv-japanimation-film-visuel.jpg" alt="" style="margin: 0 auto; display: block;" width="640" height="362" /><br /><br /><h2>Au programme :<br />&nbsp;&nbsp; </h2>
+<a href="https://www.manga-news.com/index.php/dvd/A-Silent-Voice" class="exta-link"><strong>Silent Voice </strong></a><br />Film adapté du manga éponyme, Naoko Yamada nous offre 2 heures et 10 minutes de film au récit subtil, sur des thèmes forts et sérieux, que sont le harcèlement scolaire et l’acceptation du handicap — ici de la surdité. Il est question d’une histoire d’amour, sans clichés, de deux héros torturés par la difficulté à exprimer leurs sentiments. <br /><br />
+<strong><a href="https://www.manga-news.com/index.php/dvd/Jin-Roh-la-Brigade-des-loups" class="exta-link">Jin Roh, la brigade des loups</a></strong> <br />l’histoire d’une femme rêvant d’amour et d’un homme destiné à vivre comme
