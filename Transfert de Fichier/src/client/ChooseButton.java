@@ -24,7 +24,7 @@ public class ChooseButton implements ActionListener{
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		JFileChooser fileChooser = new JFileChooser();
-		fileChooser.setDialogTitle("rien a envoyer bb");
+		fileChooser.setDialogTitle("CHoisir un fichier");
 		
 		if (fileChooser.showOpenDialog(null)==JFileChooser.APPROVE_OPTION) {
 		client.fileToSend[0] = fileChooser.getSelectedFile();
